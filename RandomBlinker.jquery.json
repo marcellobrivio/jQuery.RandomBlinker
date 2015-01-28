@@ -1,0 +1,28 @@
+{
+  "name": "RandomBlinker",
+  "title": "jQuery.RandomBlinker",
+  "description": "A little plugin for useless random animations.",
+  "keywords": [
+    "jquery",
+    "boilerplate",
+    "plugins"
+  ],
+  "version": "0.1.1",
+  "author": {
+    "name": "Marcello Brivio",
+    "url": "http://www.marcellobrivio.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "bugs": "https://github.com/marcellobrivio/jQuery.RandomBlinker/issues",
+  "homepage": "http://www.marcellobrivio.com/jquery.randomblinker",
+  "docs": "http://www.marcellobrivio.com/jquery.randomblinker#text",
+  "download": "https://github.com/marcellobrivio/jQuery.RandomBlinker/archive/master.zip",
+  "dependencies": {
+    "jquery": ">=1.4"
+  }
+}
